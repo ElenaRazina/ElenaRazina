@@ -11,5 +11,4 @@
 ![DevTools](https://img.shields.io/badge/-DevTools-090909?style=for-the-badge&logo=DevTools&logoColor=E5D3FF)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-090909?style=for-the-badge&logo=PostgreSQL&logoColor=6296CC)
 ![AndroidStudio](https://img.shields.io/badge/-AndroidStudio-090909?style=for-the-badge&logo=AndroidStudio&logoColor=00648B)
-![ЯндексТрекер](https://img.shields.io/badge/-ЯндексТрекер-090909?style=for-the-badge&logo=ЯндексТрекер&logoColor=00648B)
-Follow me
+![Яндекс Трекер](https://img.shields.io/badge/-Яндекс Трекер-090909?style=for-the-badge&logo=Яндекс Трекер&logoColor=00648B)
