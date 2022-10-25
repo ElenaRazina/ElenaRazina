@@ -17,3 +17,9 @@
 [Link on my CV (HeadHunter)](https://nn.hh.ru/resume/fba0dc7fff0b53eda40039ed1f426361587073)
 
 [Link on my CV (Pdf)](https://drive.google.com/file/d/1efdQqPJo1j4Q15eMbp2IVPNo6EFNR_Za/view?usp=sharing)
+
+## Examples of cheklists, taste cases (работы по проектам Яндекс Практикум)
+[Примеры чек-листов, тест-кейсов в Яндекс Практикуме](https://github.com/ElenaRazina/QA/tree/main/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B%20%D0%B2%20%D0%AF%D0%9F)
+
+## Examples of bug-reports (работы по проектам Яндекс Практикума)
+[Примеры баг-репортов по проектам Яндекс Практикума](https://github.com/ElenaRazina/QA/tree/main/%D1%81%D1%80%D0%B8%D0%BD%D1%8B%20%D0%B1%D0%B0%D0%B3-%D1%80%D0%B5%D0%BF%D0%BE%D1%80%D1%82%D0%BE%D0%B2)
