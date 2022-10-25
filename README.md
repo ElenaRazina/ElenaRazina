@@ -14,4 +14,5 @@
 ![Яндекс.Трекер](https://img.shields.io/badge/-Яндекс.Трекер-090909?style=for-the-badge&logo=Яндекс.Трекер&logoColor=00648B)
 
 ## My CV
-[Link on my CV](https://nn.hh.ru/resume/fba0dc7fff0b53eda40039ed1f426361587073)
+[Link on my CV (HeadHunter)](https://nn.hh.ru/resume/fba0dc7fff0b53eda40039ed1f426361587073)
+[Link on my CV (Pdf)](https://drive.google.com/file/d/1efdQqPJo1j4Q15eMbp2IVPNo6EFNR_Za/view?usp=sharing)
