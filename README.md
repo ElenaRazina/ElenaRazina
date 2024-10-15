@@ -16,7 +16,7 @@
 ## My CV
 [Link on my CV (HeadHunter)](https://nn.hh.ru/resume/fba0dc7fff0b53eda40039ed1f426361587073)
 
-[Link on my CV (Pdf)](https://drive.google.com/file/d/10EkW7jm_w6OGC_X6HgHzKS7pBm3F8rVY/view?usp=sharing)
+[Link on my CV (Pdf)](https://drive.google.com/file/d/1p4xtYLf3-X0S5_20_2HjUKUIMla7K8Sy/view?usp=sharing)
 
 ## Examples of cheklists, taste cases (работы по проектам Яндекс Практикума)
 [Примеры чек-листов, тест-кейсов в Яндекс Практикуме](https://github.com/ElenaRazina/QA/tree/main/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B%20%D0%B2%20%D0%AF%D0%9F)
